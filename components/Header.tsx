@@ -39,7 +39,7 @@ export default function Header({ onBackgroundToggle, initialBackgroundState = tr
 
     return (
         <div className="flex items-center container-default justify-between p-4">
-            <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2">
                 <button 
                     onClick={handleLogoClick}
                     className="relative cursor-pointer transition-all duration-300 hover:scale-105 group"
