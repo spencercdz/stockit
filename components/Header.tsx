@@ -58,7 +58,7 @@ export default function Header({ onBackgroundToggle, initialBackgroundState = tr
                         StockIt
                     </span>
                     <span className="text-white/80 text-xs font-medium drop-shadow-lg italic">
-                        Analyze Stock Trends with Real-Time Data.
+                        Analyze Stock Trends in Real-Time.
                     </span>
                 </div>
             </div>
